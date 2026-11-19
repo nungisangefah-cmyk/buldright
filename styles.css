@@ -9,6 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+     text-decoration: none;
 }
 nav{
     display: none;
@@ -23,6 +24,7 @@ header{
     border-bottom: 4px solid var(--color-secondary); 
     background-color: #f9f9f9;
     align-items: center;
+    
  }
 
 .logo{
@@ -46,6 +48,7 @@ header{
 
   nav{
     display: flex;
+
 }
 
 ul{
@@ -54,6 +57,7 @@ ul{
     gap: 64px;
     text-transform: capitalize;
     color: blue;
+   
 
 }
 
@@ -69,6 +73,7 @@ a{
 }
 .quote{
    background-color: var(--color-accent);
+   border: none;
 }
 .home{
     color: var(--color-primary);
