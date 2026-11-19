@@ -24,6 +24,7 @@ header{
     border-bottom: 4px solid var(--color-secondary); 
     background-color: #f9f9f9;
     align-items: center;
+    font-weight: bold;
     
  }
 
@@ -78,7 +79,5 @@ a{
 .home{
     color: var(--color-primary);
 }
-
-
 }
 
